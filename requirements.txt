@@ -1,2 +1,4 @@
 gradio
-openai-whisper
+whisper
+torch
+soundfile

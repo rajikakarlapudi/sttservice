@@ -2,3 +2,4 @@ gradio
 torch
 openai-whisper
 soundfile
+gunicorn
